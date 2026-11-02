@@ -3,7 +3,7 @@ layout: post
 title: Fundamental Access Control
 date: 2022-10-01
 categories: ["3rd Semester", "Database Security"]
-img_path: https://github.com/hausswdoubles/hausswdoubles.github.io/tree/main/_posts/media/2022-10-01-fundamental-access-control
+img_path: https://github.com/hausswdoubles/hausswdoubles.github.io/tree/main/_posts/media/2022-10-01-fundamental-access-control/
 ---
 
 In the fields of physical security and information security, access control (AC) is the selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using. Permission to access a resource is called authorization.
