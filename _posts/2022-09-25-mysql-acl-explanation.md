@@ -3,7 +3,7 @@ layout: post
 title: MySQL Access Control List Explanation
 date: 2022-09-15
 categories: ["3rd Semester", "Database Security"]
-img_path: https://github.com/hausswdoubles/hausswdoubles.github.io/tree/38a9d0938e619ddd566087692112717658f522bb/_posts/media/2022-09-25-mysql-acl-explanation
+img_path: https://raw.githubusercontent.com/hausswdoubles/hausswdoubles.github.io/refs/heads/main/_posts/media/2022-09-25-mysql-acl-explanation/
 ---
 
 ## Objective
