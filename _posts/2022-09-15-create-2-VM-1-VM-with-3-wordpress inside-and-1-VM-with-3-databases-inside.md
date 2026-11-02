@@ -3,7 +3,7 @@ layout: post
 title: Create 2 VM, 1 VM with 3 Wordpress Inside, and 1 VM with 3 Databases Inside
 date: 2022-09-15
 categories: ["3rd Semester", "Database Security"]
-img_path: https://github.com/hausswdoubles/hausswdoubles.github.io/tree/main/_posts/media/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/
+img_path: https://github.com/hausswdoubles/hausswdoubles.github.io/tree/38a9d0938e619ddd566087692112717658f522bb/_posts/media/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside
 ---
 
 ## Prerequisites:
